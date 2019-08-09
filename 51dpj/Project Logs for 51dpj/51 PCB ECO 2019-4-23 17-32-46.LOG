@@ -1,0 +1,134 @@
+Added Component: Designator=MCU1(51-DIP40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ALE Pin=MCU1-30
+Added Pin To Net: NetName=ALE Pin=P2-11
+Added Net: Name=ALE
+Added Pin To Net: NetName=EA/VPP Pin=MCU1-31
+Added Pin To Net: NetName=EA/VPP Pin=P2-10
+Added Net: Name=EA/VPP
+Added Pin To Net: NetName=INT0/P3.1 Pin=MCU1-12
+Added Pin To Net: NetName=INT0/P3.1 Pin=P1-12
+Added Net: Name=INT0/P3.1
+Added Pin To Net: NetName=INT1/P3.3 Pin=MCU1-13
+Added Pin To Net: NetName=INT1/P3.3 Pin=P1-13
+Added Net: Name=INT1/P3.3
+Added Pin To Net: NetName=P0.0/AD0 Pin=MCU1-39
+Added Pin To Net: NetName=P0.0/AD0 Pin=P2-2
+Added Net: Name=P0.0/AD0
+Added Pin To Net: NetName=P0.1/AD1 Pin=MCU1-38
+Added Pin To Net: NetName=P0.1/AD1 Pin=P2-3
+Added Net: Name=P0.1/AD1
+Added Pin To Net: NetName=P0.2/AD2 Pin=MCU1-37
+Added Pin To Net: NetName=P0.2/AD2 Pin=P2-4
+Added Net: Name=P0.2/AD2
+Added Pin To Net: NetName=P0.3/AD3 Pin=MCU1-36
+Added Pin To Net: NetName=P0.3/AD3 Pin=P2-5
+Added Net: Name=P0.3/AD3
+Added Pin To Net: NetName=P0.4/AD4 Pin=MCU1-35
+Added Pin To Net: NetName=P0.4/AD4 Pin=P2-6
+Added Net: Name=P0.4/AD4
+Added Pin To Net: NetName=P0.5/AD5 Pin=MCU1-34
+Added Pin To Net: NetName=P0.5/AD5 Pin=P2-7
+Added Net: Name=P0.5/AD5
+Added Pin To Net: NetName=P0.6/AD6 Pin=MCU1-33
+Added Pin To Net: NetName=P0.6/AD6 Pin=P2-8
+Added Net: Name=P0.6/AD6
+Added Pin To Net: NetName=P0.7/AD7 Pin=MCU1-32
+Added Pin To Net: NetName=P0.7/AD7 Pin=P2-9
+Added Net: Name=P0.7/AD7
+Added Pin To Net: NetName=P1.0 Pin=MCU1-1
+Added Pin To Net: NetName=P1.0 Pin=P1-1
+Added Net: Name=P1.0
+Added Pin To Net: NetName=P1.1 Pin=MCU1-2
+Added Pin To Net: NetName=P1.1 Pin=P1-2
+Added Net: Name=P1.1
+Added Pin To Net: NetName=P1.2 Pin=MCU1-3
+Added Pin To Net: NetName=P1.2 Pin=P1-3
+Added Net: Name=P1.2
+Added Pin To Net: NetName=P1.3 Pin=MCU1-4
+Added Pin To Net: NetName=P1.3 Pin=P1-4
+Added Net: Name=P1.3
+Added Pin To Net: NetName=P1.4 Pin=MCU1-5
+Added Pin To Net: NetName=P1.4 Pin=P1-5
+Added Net: Name=P1.4
+Added Pin To Net: NetName=P1.5 Pin=MCU1-6
+Added Pin To Net: NetName=P1.5 Pin=P1-6
+Added Net: Name=P1.5
+Added Pin To Net: NetName=P1.6 Pin=MCU1-7
+Added Pin To Net: NetName=P1.6 Pin=P1-7
+Added Net: Name=P1.6
+Added Pin To Net: NetName=P1.7 Pin=MCU1-8
+Added Pin To Net: NetName=P1.7 Pin=P1-8
+Added Net: Name=P1.7
+Added Pin To Net: NetName=P2.0/AD8 Pin=MCU1-21
+Added Pin To Net: NetName=P2.0/AD8 Pin=P2-20
+Added Net: Name=P2.0/AD8
+Added Pin To Net: NetName=P2.1/AD9 Pin=MCU1-22
+Added Pin To Net: NetName=P2.1/AD9 Pin=P2-19
+Added Net: Name=P2.1/AD9
+Added Pin To Net: NetName=P2.2/AD10 Pin=MCU1-23
+Added Pin To Net: NetName=P2.2/AD10 Pin=P2-18
+Added Net: Name=P2.2/AD10
+Added Pin To Net: NetName=P2.3/AD11 Pin=MCU1-24
+Added Pin To Net: NetName=P2.3/AD11 Pin=P2-17
+Added Net: Name=P2.3/AD11
+Added Pin To Net: NetName=P2.4/AD12 Pin=MCU1-25
+Added Pin To Net: NetName=P2.4/AD12 Pin=P2-16
+Added Net: Name=P2.4/AD12
+Added Pin To Net: NetName=P2.5/AD13 Pin=MCU1-26
+Added Pin To Net: NetName=P2.5/AD13 Pin=P2-15
+Added Net: Name=P2.5/AD13
+Added Pin To Net: NetName=P2.6/AD14 Pin=MCU1-27
+Added Pin To Net: NetName=P2.6/AD14 Pin=P2-14
+Added Net: Name=P2.6/AD14
+Added Pin To Net: NetName=P2.7/AD15 Pin=MCU1-28
+Added Pin To Net: NetName=P2.7/AD15 Pin=P2-13
+Added Net: Name=P2.7/AD15
+Added Pin To Net: NetName=PSEN Pin=MCU1-29
+Added Pin To Net: NetName=PSEN Pin=P2-12
+Added Net: Name=PSEN
+Added Pin To Net: NetName=RD/P3.7 Pin=MCU1-17
+Added Pin To Net: NetName=RD/P3.7 Pin=P1-17
+Added Net: Name=RD/P3.7
+Added Pin To Net: NetName=RST Pin=MCU1-9
+Added Pin To Net: NetName=RST Pin=P1-9
+Added Net: Name=RST
+Added Pin To Net: NetName=RXD/P3.0 Pin=MCU1-10
+Added Pin To Net: NetName=RXD/P3.0 Pin=P1-10
+Added Net: Name=RXD/P3.0
+Added Pin To Net: NetName=T0/P3.4 Pin=MCU1-14
+Added Pin To Net: NetName=T0/P3.4 Pin=P1-14
+Added Net: Name=T0/P3.4
+Added Pin To Net: NetName=T1/P3.5 Pin=MCU1-15
+Added Pin To Net: NetName=T1/P3.5 Pin=P1-15
+Added Net: Name=T1/P3.5
+Added Pin To Net: NetName=TXD/P3.1 Pin=MCU1-11
+Added Pin To Net: NetName=TXD/P3.1 Pin=P1-11
+Added Net: Name=TXD/P3.1
+Added Pin To Net: NetName=VCC Pin=MCU1-40
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VSS Pin=MCU1-20
+Added Pin To Net: NetName=VSS Pin=P1-20
+Added Net: Name=VSS
+Added Pin To Net: NetName=WR/P3.6 Pin=MCU1-16
+Added Pin To Net: NetName=WR/P3.6 Pin=P1-16
+Added Net: Name=WR/P3.6
+Added Pin To Net: NetName=XTAL1 Pin=MCU1-19
+Added Pin To Net: NetName=XTAL1 Pin=P1-19
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=MCU1-18
+Added Pin To Net: NetName=XTAL2 Pin=P1-18
+Added Net: Name=XTAL2
+Added Class: Name=51
+Added Room: Name=51

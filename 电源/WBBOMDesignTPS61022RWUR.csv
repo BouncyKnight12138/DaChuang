@@ -1,0 +1,7 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+U1,Texas Instruments,TPS61022RWUR,1,0.65,9,
+Cin,Kemet,C0805C106K8PACTU,1,0.03,6.75,Cap: 10 µF  Total Derated Cap: 8 µF  VDC: 10 V  ESR: 3 mΩ  Package: 0805  
+Rfbb,Vishay-Dale,CRCW0402100KFKED,1,0.01,3,Resistance: 100 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rfbt,Vishay-Dale,CRCW0402732KFKED,1,0.01,3,Resistance: 732 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cout,TDK,C2012X5R1V156M125AC,2,0.23,6.75,Cap: 15 µF  Total Derated Cap: 13 µF  VDC: 35 V  ESR: 1.67 mΩ  Package: 0805  
+L1,Bourns,SRN6045-1R0Y,1,0.2,64,L: 1 µH  DCR: 13.9 mΩ  IDC: 4.2 A  
